@@ -1,0 +1,13 @@
+{
+  "name": "campuseats-task-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small task tracker used to practise Git, CI/CD, code quality, and security.",
+  "scripts": {
+    "start": "node src/tasks.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
